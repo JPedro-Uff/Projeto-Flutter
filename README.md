@@ -1,4 +1,4 @@
-# flutter_sti
+# Projeto Flutter
 
 A new Flutter project.
 
